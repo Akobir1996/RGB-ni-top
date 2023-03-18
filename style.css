@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vh;
+    height: 100vh;
+    
+}
+
+.conteaner{
+    margin: 10px;
+    width: 450px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(/1.jpg); shu joyiga kerakli rasmni quyish kerak */
+    background-size: cover;
+    /* overflow: hidden; */
+}
+
+button{
+    margin: 10px;
+}
+
+.result{
+    margin: 10px;
+    height: 35px;
+    width: 150px;
+    /* background-color: sRGBHex; */
+}
